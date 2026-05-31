@@ -1,0 +1,56 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*~
+.DS_Store
+
+# Environment variables
+.env
+.env.local
+
+# WebDriver Manager cache
+.wdm/
+
+# Browser data
+chrome-data/
+chromedriver
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
